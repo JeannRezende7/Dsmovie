@@ -1,5 +1,6 @@
+import axios from 'axios';
 import { Link } from 'react-router-dom';
-import './styles.css'
+import './styles.css';
 
 function Form() {
 
@@ -10,7 +11,6 @@ function Form() {
         count: 2,
         score: 4.5
     };
-
 
     return (
         <div className="dsmovie-form-container">
