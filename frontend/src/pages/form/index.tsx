@@ -2,15 +2,15 @@ import FormCard from 'components/formCard';
 import { useParams } from 'react-router-dom';
 
 
-  function Form() {
+function Form() {
 
-    const params = useParams();
-      
-    return (
-        
-    <FormCard movieId={`${params.movieId}`}/>
+  const params = useParams();
 
-    );
+  return (
+
+    <FormCard movieId={`${params.movieId}`} />
+
+  );
 
 }
 
