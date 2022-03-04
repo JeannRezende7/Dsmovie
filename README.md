@@ -8,3 +8,5 @@ Back-end: Spring boot, Java, JPA, PostgreSQL
 Hospedagem Netlify: https://jeannrezende7dsmovie.netlify.app/
 (demora um pouco para iniciar devido ao banco ficar inativo)
 ![image](https://user-images.githubusercontent.com/86562591/156809949-fe623b27-ba0b-4b23-9c01-08e5e00abe9e.png)
+<p align="center">![image](https://user-images.githubusercontent.com/86562591/156810685-c48b76b5-ede9-4ea6-b4d2-d004635b0f49.png)</p>
+
